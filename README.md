@@ -28,3 +28,7 @@ If we open one of the link like this one : https://territoire.emse.fr/ldp/bouzia
 we can see the rdf graph result of the choosen event : ade60323032322d3230323353542d455449454e4e452d33363236322d302d30
 with the fields : name, endDate, startDate, location
 
+# note
+we can find SPARQL query in the function listUpcomingEvents.
+Note that this function take a date and a graph into parameters, to print a list of event with a start date after the date in parameter.
+
