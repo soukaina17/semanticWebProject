@@ -1,0 +1,935 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d302d30> a ns1:Event ;
+    ns1:endDate "2022-09-07T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-07T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d312d30> a ns1:Event ;
+    ns1:endDate "2022-09-14T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-14T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d322d30> a ns1:Event ;
+    ns1:endDate "2022-09-21T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-21T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d332d30> a ns1:Event ;
+    ns1:endDate "2022-09-28T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-28T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d342d30> a ns1:Event ;
+    ns1:endDate "2022-10-05T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-05T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d352d30> a ns1:Event ;
+    ns1:endDate "2022-10-12T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-12T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d31303336372d362d30> a ns1:Event ;
+    ns1:endDate "2022-10-19T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-19T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d313337342d302d30> a ns1:Event ;
+    ns1:endDate "2022-09-05T16:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "Rentrée" ;
+    ns1:startDate "2022-09-05T14:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d30> a ns1:Event ;
+    ns1:endDate "2023-01-05T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2023-01-05T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d31> a ns1:Event ;
+    ns1:endDate "2022-12-15T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-15T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3130> a ns1:Event ;
+    ns1:endDate "2022-11-23T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-23T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3131> a ns1:Event ;
+    ns1:endDate "2022-11-21T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-21T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3132> a ns1:Event ;
+    ns1:endDate "2022-12-07T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-07T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3133> a ns1:Event ;
+    ns1:endDate "2022-11-23T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-23T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3134> a ns1:Event ;
+    ns1:endDate "2022-11-17T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-17T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3135> a ns1:Event ;
+    ns1:endDate "2022-12-07T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-07T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3136> a ns1:Event ;
+    ns1:endDate "2022-11-24T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-24T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3137> a ns1:Event ;
+    ns1:endDate "2022-11-17T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-17T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3138> a ns1:Event ;
+    ns1:endDate "2022-12-01T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-01T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3139> a ns1:Event ;
+    ns1:endDate "2022-11-24T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-24T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d32> a ns1:Event ;
+    ns1:endDate "2022-11-21T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-21T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3230> a ns1:Event ;
+    ns1:endDate "2022-12-08T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-08T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3231> a ns1:Event ;
+    ns1:endDate "2022-12-01T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-01T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3232> a ns1:Event ;
+    ns1:endDate "2022-12-15T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-15T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3233> a ns1:Event ;
+    ns1:endDate "2022-12-08T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-12-08T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d33> a ns1:Event ;
+    ns1:endDate "2023-01-05T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2023-01-05T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d34> a ns1:Event ;
+    ns1:endDate "2022-11-22T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-22T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d35> a ns1:Event ;
+    ns1:endDate "2022-11-22T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-22T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d36> a ns1:Event ;
+    ns1:endDate "2022-11-21T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-21T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d37> a ns1:Event ;
+    ns1:endDate "2022-11-16T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-16T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d38> a ns1:Event ;
+    ns1:endDate "2022-11-16T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-16T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32313931332d302d39> a ns1:Event ;
+    ns1:endDate "2022-11-21T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Programming connected devices / Digital Twins" ;
+    ns1:startDate "2022-11-21T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d30> a ns1:Event ;
+    ns1:endDate "2022-10-27T13:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-10-27T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d31> a ns1:Event ;
+    ns1:endDate "2022-09-06T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-06T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3130> a ns1:Event ;
+    ns1:endDate "2022-09-23T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-23T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3131> a ns1:Event ;
+    ns1:endDate "2022-09-08T14:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-08T13:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3132> a ns1:Event ;
+    ns1:endDate "2022-09-06T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-06T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3133> a ns1:Event ;
+    ns1:endDate "2022-09-23T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-23T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d32> a ns1:Event ;
+    ns1:endDate "2022-11-08T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-11-08T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d33> a ns1:Event ;
+    ns1:endDate "2022-10-27T14:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-10-27T13:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d34> a ns1:Event ;
+    ns1:endDate "2022-12-08T14:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-12-08T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d35> a ns1:Event ;
+    ns1:endDate "2022-11-08T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-11-08T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d36> a ns1:Event ;
+    ns1:endDate "2022-09-29T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-29T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d37> a ns1:Event ;
+    ns1:endDate "2022-12-08T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-12-08T14:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d38> a ns1:Event ;
+    ns1:endDate "2022-09-08T13:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-08T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323533302d302d39> a ns1:Event ;
+    ns1:endDate "2022-09-29T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    ns1:startDate "2022-09-29T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d302d30> a ns1:Event ;
+    ns1:endDate "2022-10-07T14:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-10-07T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d312d30> a ns1:Event ;
+    ns1:endDate "2022-10-21T10:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-10-21T06:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d31302d30> a ns1:Event ;
+    ns1:endDate "2022-12-09T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-12-09T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d31312d30> a ns1:Event ;
+    ns1:endDate "2022-12-16T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-12-16T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d31322d30> a ns1:Event ;
+    ns1:endDate "2023-01-06T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2023-01-06T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d322d30> a ns1:Event ;
+    ns1:endDate "2022-11-25T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-11-25T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d332d30> a ns1:Event ;
+    ns1:endDate "2022-10-28T10:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S120" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-10-28T06:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d342d30> a ns1:Event ;
+    ns1:endDate "2022-12-09T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-12-09T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d352d30> a ns1:Event ;
+    ns1:endDate "2022-12-16T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-12-16T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d362d30> a ns1:Event ;
+    ns1:endDate "2023-01-13T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2023-01-13T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d372d30> a ns1:Event ;
+    ns1:endDate "2022-10-21T14:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-10-21T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d382d30> a ns1:Event ;
+    ns1:endDate "2022-10-28T14:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-10-28T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32323537312d392d30> a ns1:Event ;
+    ns1:endDate "2022-11-25T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM Semantic Web" ;
+    ns1:startDate "2022-11-25T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32333432382d302d30> a ns1:Event ;
+    ns1:endDate "2022-12-14T14:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-12-14T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32333432382d302d31> a ns1:Event ;
+    ns1:endDate "2022-12-14T16:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S111" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-12-14T14:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32333432382d302d32> a ns1:Event ;
+    ns1:endDate "2022-12-15T14:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S224" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-12-15T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32333535372d302d30> a ns1:Event ;
+    ns1:endDate "2023-01-11T13:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "L125 co-working (50) (Manufacture)" ;
+    ns1:name "International Lunch" ;
+    ns1:startDate "2023-01-11T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343033342d302d30> a ns1:Event ;
+    ns1:endDate "2022-10-20T14:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE EF 2.32" ;
+    ns1:name "CM Scientific writing" ;
+    ns1:startDate "2022-10-20T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343033342d312d30> a ns1:Event ;
+    ns1:endDate "2022-11-18T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Scientific writing" ;
+    ns1:startDate "2022-11-18T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343033342d322d30> a ns1:Event ;
+    ns1:endDate "2022-12-02T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Scientific writing" ;
+    ns1:startDate "2022-12-02T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343033342d342d30> a ns1:Event ;
+    ns1:endDate "2023-01-06T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Scientific writing" ;
+    ns1:startDate "2023-01-06T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d302d30> a ns1:Event ;
+    ns1:endDate "2022-09-07T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-07T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d312d30> a ns1:Event ;
+    ns1:endDate "2022-09-14T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-14T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d322d30> a ns1:Event ;
+    ns1:endDate "2022-09-21T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-21T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d332d30> a ns1:Event ;
+    ns1:endDate "2022-09-28T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-09-28T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d342d30> a ns1:Event ;
+    ns1:endDate "2022-10-05T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-05T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d352d30> a ns1:Event ;
+    ns1:endDate "2022-10-12T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-12T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32343731312d362d30> a ns1:Event ;
+    ns1:endDate "2022-10-19T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Cloud and Edge Infrastructures" ;
+    ns1:startDate "2022-10-19T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d302d30> a ns1:Event ;
+    ns1:endDate "2022-11-09T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-09T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d312d30> a ns1:Event ;
+    ns1:endDate "2022-11-16T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-16T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d31302d30> a ns1:Event ;
+    ns1:endDate "2022-12-13T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-12-13T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d31312d30> a ns1:Event ;
+    ns1:endDate "2022-11-22T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-22T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d322d30> a ns1:Event ;
+    ns1:endDate "2022-11-09T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-09T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d332d30> a ns1:Event ;
+    ns1:endDate "2022-11-16T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-16T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d342d30> a ns1:Event ;
+    ns1:endDate "2022-11-23T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-23T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d352d30> a ns1:Event ;
+    ns1:endDate "2022-11-30T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-30T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d362d30> a ns1:Event ;
+    ns1:endDate "2022-11-23T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-23T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d372d30> a ns1:Event ;
+    ns1:endDate "2022-12-13T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-12-13T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d382d30> a ns1:Event ;
+    ns1:endDate "2022-11-22T09:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.11" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-22T08:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353234362d392d30> a ns1:Event ;
+    ns1:endDate "2022-11-30T11:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "CM Cybersecurity" ;
+    ns1:startDate "2022-11-30T09:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d32353330392d302d30> a ns1:Event ;
+    ns1:endDate "2023-01-03T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.14" ;
+    ns1:name "EXAM Cybersecurity" ;
+    ns1:startDate "2023-01-03T09:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d302d30> a ns1:Event ;
+    ns1:endDate "2022-10-11T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-11T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d312d30> a ns1:Event ;
+    ns1:endDate "2022-10-06T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-06T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31302d30> a ns1:Event ;
+    ns1:endDate "2022-10-04T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-04T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31312d30> a ns1:Event ;
+    ns1:endDate "2022-09-15T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-15T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31322d30> a ns1:Event ;
+    ns1:endDate "2022-09-22T07:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-22T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31332d30> a ns1:Event ;
+    ns1:endDate "2022-09-27T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-27T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31342d30> a ns1:Event ;
+    ns1:endDate "2022-10-04T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-04T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31352d30> a ns1:Event ;
+    ns1:endDate "2022-10-06T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-06T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31362d30> a ns1:Event ;
+    ns1:endDate "2022-10-13T07:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-13T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31372d30> a ns1:Event ;
+    ns1:endDate "2022-09-08T07:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-08T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31382d30> a ns1:Event ;
+    ns1:endDate "2022-09-08T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-08T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d31392d30> a ns1:Event ;
+    ns1:endDate "2022-10-27T07:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-27T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d322d30> a ns1:Event ;
+    ns1:endDate "2022-09-20T08:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-20T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d32312d30> a ns1:Event ;
+    ns1:endDate "2022-10-13T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-13T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d32322d30> a ns1:Event ;
+    ns1:endDate "2022-10-20T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-20T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d32332d30> a ns1:Event ;
+    ns1:endDate "2022-10-20T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-20T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d32342d30> a ns1:Event ;
+    ns1:endDate "2022-10-27T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-27T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d332d30> a ns1:Event ;
+    ns1:endDate "2022-09-20T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-20T08:15:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d342d30> a ns1:Event ;
+    ns1:endDate "2022-10-11T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-10-11T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d352d30> a ns1:Event ;
+    ns1:endDate "2022-09-22T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-22T07:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d362d30> a ns1:Event ;
+    ns1:endDate "2022-09-13T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-13T08:45:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d372d30> a ns1:Event ;
+    ns1:endDate "2022-09-13T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-13T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d382d30> a ns1:Event ;
+    ns1:endDate "2022-09-15T07:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-15T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d333039372d392d30> a ns1:Event ;
+    ns1:endDate "2022-09-27T08:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    ns1:name "CM/TD Web Programming / Research and development Project" ;
+    ns1:startDate "2022-09-27T07:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d33323430342d302d30> a ns1:Event ;
+    ns1:endDate "2023-01-04T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "" ;
+    ns1:name "EXAM Digital Twins LEFRANCOIS Maxime" ;
+    ns1:startDate "2023-01-04T09:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d33363236322d302d30> a ns1:Event ;
+    ns1:endDate "2022-12-02T15:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "TD Professional insertion" ;
+    ns1:startDate "2022-12-02T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d33363236322d312d30> a ns1:Event ;
+    ns1:endDate "2022-12-01T16:30:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE salle 212" ;
+    ns1:name "TD Professional insertion" ;
+    ns1:startDate "2022-12-01T12:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d373436332d302d30> a ns1:Event ;
+    ns1:endDate "2022-11-10T11:00:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE amphi A104 Espace Fauriel" ;
+    ns1:name "EXAM Cloud" ;
+    ns1:startDate "2022-11-10T09:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d302d30> a ns1:Event ;
+    ns1:endDate "2022-09-16T16:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-09-16T12:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d312d30> a ns1:Event ;
+    ns1:endDate "2022-09-23T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-09-23T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d322d30> a ns1:Event ;
+    ns1:endDate "2022-09-09T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-09-09T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d332d30> a ns1:Event ;
+    ns1:endDate "2022-10-06T15:45:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-10-06T11:30:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d342d30> a ns1:Event ;
+    ns1:endDate "2022-09-30T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-09-30T06:00:00+00:00"^^xsd:dateTime .
+
+<ADE60323032322d3230323353542d455449454e4e452d383032372d352d30> a ns1:Event ;
+    ns1:endDate "2022-10-14T10:15:00+00:00"^^xsd:dateTime ;
+    ns1:location "EMSE Espace Fauriel S2.21" ;
+    ns1:name "CM Multi agent coordination" ;
+    ns1:startDate "2022-10-14T06:00:00+00:00"^^xsd:dateTime .
+
+<alentoor-1502225> a ns1:Calendar ;
+    rdfs:label "Marché de Montplaisir"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-29"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-1862692> a ns1:Calendar ;
+    rdfs:label "Marché de Montreynaud"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-29"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542856> a ns1:Calendar ;
+    rdfs:label "Marché de Carnot"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542857> a ns1:Calendar ;
+    rdfs:label "Marché de Bellevue"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542859> a ns1:Calendar ;
+    rdfs:label "Marché du Soleil"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-28"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542860> a ns1:Calendar ;
+    rdfs:label "Marché de Jacquard"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542861> a ns1:Calendar ;
+    rdfs:label "Marché de Saint Roch"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-30"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542862> a ns1:Calendar ;
+    rdfs:label "Marché du Grand Clos"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-28"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2542869> a ns1:Calendar ;
+    rdfs:label "Marché de producteurs Albert Thomas"@fr ;
+    ns1:description "Marché de producteurs."^^xsd:string ;
+    ns1:endDate "2023-12-30"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2543730> a ns1:Calendar ;
+    rdfs:label "Marché de la Terrasse"@fr ;
+    ns1:description "Marché de produits manufacturés et alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-30"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2543731> a ns1:Calendar ;
+    rdfs:label "Marché de Chavanelle"@fr ;
+    ns1:description "Marché de produits alimentaires."^^xsd:string ;
+    ns1:endDate "2023-12-28"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-2543732> a ns1:Calendar ;
+    rdfs:label "Marché bio Albert Thomas"@fr ;
+    ns1:description "Marché de producteurs bio."^^xsd:string ;
+    ns1:endDate "2023-12-29"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3196493> a ns1:Calendar ;
+    rdfs:label "Enquêtes et énigmes au Musée de la Mine"@fr ;
+    ns1:description """Parcours réalisé en autonomie et nécessitant un smartphone et une application de lecture de QR Code.
+
+Sept mineurs ont disparu mystérieusement sans laisser de traces.
+
+Saurez-vous découvrir ce qui leu"""^^xsd:string ;
+    ns1:endDate "2023-12-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3277357> a ns1:Calendar ;
+    rdfs:label "Marché des plants"@fr ;
+    ns1:description "Marché de plants (destinés à la plantation de végétaux, fruits ou légumes)."^^xsd:string ;
+    ns1:endDate "2023-12-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3397659> a ns1:Calendar ;
+    rdfs:label "Atelier Explora, fabrique de curiosités - la Rotonde"@fr ;
+    ns1:description """Explora, c’est le lieu pour imaginer, fabriquer et jouer ! Ici, on FAIT des sciences !
+Explora c’est une aventure joyeuse et créative pour apprendre en jouant, se tromper avec plaisir et réussir en co"""^^xsd:string ;
+    ns1:endDate "2023-03-31"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3461352> a ns1:Calendar ;
+    rdfs:label "Podcast \"Ricochets les ondes de la Rotonde\""@fr ;
+    ns1:description """En 2023, La Rotonde monte le son et lance Ricochets, des podcasts aux formats divers pour faire rebondir les sciences !
+
+Pour ce premier rendez-vous en public, un thème sera au cœur de l’émission : « """^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3740447> a ns1:Calendar ;
+    rdfs:label "Exposition Bicyclette(s), faire des vélos"@fr ;
+    ns1:description "Une exposition-événement sur le renouveau du vélo au XXIe siècle avec plus de 70 bicyclettes, véritables bijoux de technologie et de design et la mise en avant des créateurs, artisans, entreprises et "^^xsd:string ;
+    ns1:endDate "2023-04-30"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3867660> a ns1:Calendar ;
+    rdfs:label "Exposition temporaire :Saint-Étienne 1780-1856, r/Évolutions"@fr ;
+    ns1:description """Les deux musées de la Ville de Saint-Étienne, Couriot - Musée de la mine et le musée d’Art et d’Industrie, présentent deux faces complémentaires pour saisir la première révolution industrielle
+
+Du 22 """^^xsd:string ;
+    ns1:endDate "2023-06-11"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3903022> a ns1:Calendar ;
+    rdfs:label "Exposition temporaire \"Saint-Etienne 1780-1856, r/évolutions\""@fr ;
+    ns1:description """Les deux musées de la Ville de Saint-Étienne, Couriot - Musée de la mine et le musée d’Art et d’Industrie, présentent deux faces complémentaires pour saisir la première révolution industrielle.
+
+Du 21"""^^xsd:string ;
+    ns1:endDate "2023-06-11"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3935320> a ns1:Calendar ;
+    rdfs:label "Arnaud Ducret That’S Life"@fr ;
+    ns1:description """Après avoir exploré avec succès le cinéma et la télévision, Arnaud Ducret fait son retour sur scène avec son nouveau one man show : « That’s life ».
+C’est l’occasion pour lui de passer en revue, avec """^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3986991> a ns1:Calendar ;
+    rdfs:label "L’avare à la Comédie"@fr ;
+    ns1:description "Alors qu’il s’apprête à marier sa fille avec un riche seigneur, et qu’il envisage lui-même d’épouser en secondes noces une jeune fille du voisinage, un vieil usurier voit s’abattre sur lui un enchaîne"^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3992291> a ns1:Calendar ;
+    rdfs:label "Exposition sur le projet Coeur d'histoire"@fr ;
+    ns1:description """Venez découvrir le projet de transformation de la ville de Saint-Étienne et de son bourg médiéval à la maison du projet.
+
+Histoire du quartier, point sur les chantiers en cours et à venir, tour d’hori"""^^xsd:string ;
+    ns1:endDate "2023-02-28"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-3999380> a ns1:Calendar ;
+    rdfs:label "Atelier Pimp My Bike"@fr ;
+    ns1:description "Venez personnaliser vos vélos avec des couleurs, des rubans des stickers, des pièces de cuir… à votre disposition !"^^xsd:string ;
+    ns1:endDate "2023-04-01"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4013495> a ns1:Calendar ;
+    rdfs:label "Spectacle la fin du monde est pour dimanche"@fr ;
+    ns1:description """Tôt le matin. La fête est finie. Le départ à la retraite de François a été honoré de la présence d’êtres chers. Kevin referme la porte sur les derniers invités de son père.
+
+Mais dans cette béance du """^^xsd:string ;
+    ns1:endDate "2023-01-13"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4013539> a ns1:Calendar ;
+    rdfs:label "Soirée Salsa"@fr ;
+    ns1:description """La Fabuleuse Cantine vous invite à une soirée salsa !
+
+À partir de 19h !
+Au programme, un cours endiablé de Salsa , une danse née d'un mélange de musiques de la côte Pacifique Colombienne et de la sal"""^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4013549> a ns1:Calendar ;
+    rdfs:label "Visite de Télécom Saint-Étienne"@fr ;
+    ns1:description """Télécom Saint-Etienne vous ouvre ses portes pour faire découvrir ses activités.
+Visite des locaux, découverte de l'IRAM, du club robot..."""^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4018488> a ns1:Calendar ;
+    rdfs:label "Exposition maquette de la planète Mars - Festival les Mycéliades"@fr ;
+    ns1:description """La médiathèque de Carnot accueille la maquette de la Planète Mars réalisée par Le Planétarium
+
+FESTIVAL « LES MYCELIADES »
+Le cinéma Le Méliès Jean-Jaurès et la médiathèque de Carnot invite Le Learnin"""^^xsd:string ;
+    ns1:endDate "2023-02-18"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4018615> a ns1:Calendar ;
+    rdfs:label "Théâtre des Brankignols - Histoire des Prieurés du Forez, film documentaire-fiction"@fr ;
+    ns1:description """L'histoire des prieurés du Forez : un film documentaire-fiction de Dominique Dozolme à Saint Etienne
+
+Les prieurés du Forez, dont la plupart furent construits au moyen-âge, étaient des établissements """^^xsd:string ;
+    ns1:endDate "2023-01-12"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4019937> a ns1:Calendar ;
+    rdfs:label "Exposition Hibernation ou le choeur des choses gelées"@fr ;
+    ns1:description "Après avoir longtemps travaillé dans le spectacle vivant, Jean-Jacques Cornillon a fait de la photographie et de l’écriture ses activités principales. Jusqu’au 24 janvier il investit la galerie Rêves "^^xsd:string ;
+    ns1:endDate "2023-01-24"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
+<alentoor-4030049> a ns1:Calendar ;
+    rdfs:label "Exposition Nam Tchun-Mo Spring à la Galerie Ceysson et Benetière"@fr ;
+    ns1:description "Cette première exposition de Nam Tchun-Mo à la galerie Ceysson & Bénétière de Saint-Étienne, et la troisième sous cette même enseigne, après celles de Paris en septembre 2020 et de New York au printem"^^xsd:string ;
+    ns1:endDate "2023-02-18"^^xsd:date ;
+    ns1:startDate "2023-01-12"^^xsd:date .
+
