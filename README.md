@@ -12,7 +12,7 @@ bs4 library (BeautifulSoup)
 
 # Run
 Ensure that you have the ICS file "ADECal.ics" in the same directory as the main.
-Run the script.
+Run the main4.py script.
 
 # View the results
 In the resultat.txt, you will have all the data about the ics file printed in alphabetical order (is it to make sure that we have the good data) so we have the following fields : endDate, location, name and startDate .
